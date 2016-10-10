@@ -1,3 +1,7 @@
+/* Author: Kevin Wang
+ * Created Dated: 2016-9-13
+ */
+
 package lab1;
 
 import java.util.ArrayList;
