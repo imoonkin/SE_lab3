@@ -1,4 +1,10 @@
-﻿package lab1;
+﻿
+/* 
+ * Author: Kevin Wang
+ * Created Dated: 2016-9-13
+ */
+
+package lab1;
 
 import java.util.List;
 import java.util.Map;
@@ -6,8 +12,7 @@ import java.util.Map;
 import static java.lang.Math.pow;
 
 public class Node {
-	// 节点内的表达式c4
-	// here changes
+	// 节点内的表达式
 	private List<String> s;
 	// 左侧表达式，右侧表达式
 	public Node left = null, right = null;
@@ -200,3 +205,6 @@ public class Node {
 		return null;
 	}
 }
+
+//Finished
+>>>>>>> 1140310302
