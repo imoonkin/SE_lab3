@@ -6,7 +6,7 @@ import java.util.Map;
 import static java.lang.Math.pow;
 
 public class Node {
-	// 节点内的表达式aaaa
+	// 节点内的表达式c4
 	// here changes
 	private List<String> s;
 	// 左侧表达式，右侧表达式

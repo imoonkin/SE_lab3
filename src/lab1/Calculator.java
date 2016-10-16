@@ -18,7 +18,7 @@ public class Calculator {
 	public static Pattern pil = Pattern.compile("[^\\+\\-\\*\\^a-zA-Z0-9\\(\\)\\s]");
 
 	/*
-	 * 按+/-分解表达式， 在index_neg中记录符号的位置， 返回分解表达式aaa
+	 * 按+/-分解表达式， 在index_neg中记录符号的位置， 返回分解表达式b222
 	 */
 	public static List<String> split(String str, List<Boolean> index_neg) {
 		StringBuffer s = new StringBuffer(str);
